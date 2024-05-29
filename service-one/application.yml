@@ -21,7 +21,7 @@ spring:
     show-sql: true
       
 user:
-  name:Ramesh Ejjagiri
+  name: Ejjagiri Ramesh
   
   
 
