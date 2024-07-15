@@ -9,7 +9,7 @@ spring:
       name: service-one
     profiles:
       active:
-        - qa
+        - dev
       
 user:
   name: Ejjagiri Ramesh
